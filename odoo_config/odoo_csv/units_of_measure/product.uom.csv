@@ -42,7 +42,6 @@ init.162335AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Ampule(s),1,uom.product_uom_categ_unit
 init.162366AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Microgram,1,uom.product_uom_categ_unit,0.01,Bigger than the reference Unit of Measure
 init.162401AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Kit,1,uom.product_uom_categ_unit,0.01,Bigger than the reference Unit of Measure
 init.162400AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Inhaler,1,uom.product_uom_categ_unit,0.01,Bigger than the reference Unit of Measure
-init.162399AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Each,1,uom.product_uom_categ_unit,0.01,Bigger than the reference Unit of Measure
 init.162398AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Dose pack,1,uom.product_uom_categ_unit,0.01,Bigger than the reference Unit of Measure
 init.162397AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Cartridge,1,uom.product_uom_categ_unit,0.01,Bigger than the reference Unit of Measure
 init.162396AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Box,1,uom.product_uom_categ_unit,0.01,Bigger than the reference Unit of Measure
